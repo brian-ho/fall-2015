@@ -13,7 +13,14 @@
 Alejandro Zaero-Polo, “The Politics of the Envelope”
 (excerpt: p76-77, p96)
 	
-### Assignment 1: Grasshopper intro / Tool-hacking: (Due Sep 29)
+### Assignment 1: Tools for the Subterranean: (Due Sep 29)
+
+![cast anthill](http://i.imgur.com/4khaCDq.jpg)
+![cast anthill2](http://i.imgur.com/h503x6a.jpg)
+![biosphere2](http://i.imgur.com/E2Xyy6E.jpg)
+![NYPL stacks](http://i.imgur.com/6Q8xbRH.jpg)
+![Step well in India](http://i.imgur.com/t8AoLYW.jpg)
+
 
 1. Finish the Spidersac tutorial.
 
