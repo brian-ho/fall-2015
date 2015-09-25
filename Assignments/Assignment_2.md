@@ -9,6 +9,13 @@
 
 This video is for next class, but if you want to get a head start:
 * [PinupTable example](http://skilltree.gsapp.org/tutorials/52) 
+ 
+### Desk Crits:
+
+For this week, Jason will be doing desk crits on Saturday evening, and I'll be doing them on Sunday evening. 
+
+Sign up here:
+https://docs.google.com/spreadsheets/d/1-oq9A1Syvr6LeYuxczAHhK60A6x1njwHN6f_cnR4eFU/edit#gid=0
 
 ### Reading for Class 3’s discussion:
 
