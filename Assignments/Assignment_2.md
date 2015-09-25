@@ -7,7 +7,7 @@
 * [Clusters](http://skilltree.gsapp.org/tutorials/53)
 * [User Objects](http://skilltree.gsapp.org/tutorials/58)
 
-This video is next class, but if you want to get a head start:
+This video is for next class, but if you want to get a head start:
 * [PinupTable example](http://skilltree.gsapp.org/tutorials/52) 
 
 ### Reading for Class 3’s discussion:
